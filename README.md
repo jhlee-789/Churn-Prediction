@@ -89,3 +89,12 @@ From the violin plot between the car owners and the total amount of income, we c
 ![image](https://user-images.githubusercontent.com/96342048/210169719-76090472-3f67-4bfb-ae8c-30a5f1c70b34.png)
 
 And when the reality was included in the analysis, we could conclude that higher-income people tend to have cars.
+
+## 4) Imbalanced Data
+
+### Concept
+
+Imbalanced Data is data in which the target class has an uneven distribution of observations. The degree of imbalance depends on the proportion of the minority class. Imbalanced data could be classified as mild, moderate, or extreme. When the proportion of minority class is 20~40% it is mild, at 1~20% it is moderate and when it is less than 1% it is extremely imbalanced.
+
+
+
